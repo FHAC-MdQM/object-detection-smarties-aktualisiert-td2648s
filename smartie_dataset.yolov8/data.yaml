@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['smartie']
+
+roboflow:
+  workspace: ukasz-ukaszewski
+  project: skittles-fu5lr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ukasz-ukaszewski/skittles-fu5lr/dataset/1
